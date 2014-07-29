@@ -1,3 +1,7 @@
+##########################
+#by: Zibo, Kelly
+##########################
+
 import os, sys, getopt, re
 
 def find_file_by_pattern(regexStr=".*",base=".",circle=True):
